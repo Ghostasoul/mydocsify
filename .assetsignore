@@ -1,0 +1,5 @@
+wrangler.jsonc
+wrangler.toml
+.assetsignore
+src/
+.idea/

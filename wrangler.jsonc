@@ -1,0 +1,17 @@
+{
+  "name": "mydocsify",
+  "main": "src/index.js",
+  "compatibility_date": "2026-10-16",
+  "assets": {
+    "directory": "./",
+    "binding": "ASSETS",
+    "not_found_handling": "404-page",
+    "run_worker_first": false
+  },
+  "kv_namespaces": [
+    {
+      "binding": "111",
+      "id": "cb15e1b0a01946b9a1950c0110d4d870"
+    }
+  ]
+}
